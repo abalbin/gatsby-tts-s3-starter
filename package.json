@@ -2,7 +2,7 @@
   "name": "gatsby-tts-s3-starter",
   "private": false,
   "description": "A starter to get up and developing quickly with Gatsby, typescript, tailwind CSS and deploying with S3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Arturo Balbin <a.balbin.r@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",

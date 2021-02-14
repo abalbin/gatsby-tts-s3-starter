@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-tts-s3-default",
+  "name": "gatsby-tts-s3-starter",
   "private": true,
   "description": "A starter to get up and developing quickly with Gatsby, typescript, tailwind CSS and deploying with S3",
   "version": "0.1.0",
@@ -43,6 +43,7 @@
 	"style-components",
 	"s3"
   ],
+  "main": "n/a",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build --prefix-paths",
